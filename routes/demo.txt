@@ -1,0 +1,29 @@
+//   <p><strong>Address:</strong> ${req.body.address}</p>
+    //   <p><strong>Street:</strong> ${req.body.street}</p>
+    //   <p><strong>District:</strong> ${req.body.district}</p>
+    //   <p><strong>State:</strong> ${req.body.state}</p>
+    //   <p><strong>Pin Code:</strong> ${req.body.pinCode}</p>
+    //   <p><strong>Hospital Address:</strong> ${req.body.hospitalAddress}</p>
+    //   <p><strong>Road Name:</strong> ${req.body.roadName}</p>
+    //   <p><strong>Area:</strong> ${req.body.area}</p>
+    //   <p><strong>States:</strong> ${req.body.states}</p>
+    //   <p><strong>Pincode:</strong> ${req.body.pincode}</p>
+    //   <p><strong>Mobile Number:</strong> ${req.body.mobileNumber}</p>
+    //   <p><strong>Alternate Mobile Number:</strong> ${req.body.alternateMobileNumber}</p>
+    //   <p><strong>Email:</strong> ${req.body.email}</p>
+    //   <p><strong>Date of Birth:</strong> ${req.body.dateOfBirth}</p>
+    //   <p><strong>Wedding Date:</strong> ${req.body.weddingDate}</p>
+    //   <p><strong>ID Proof Type:</strong> ${req.body.idProofType}</p>
+    //   <p><strong>ID Number:</strong> ${req.body.idNumber}</p>
+    //   <p><strong>Speciality:</strong> ${req.body.speciality}</p>
+    //   <p><strong>Other Speciality:</strong> ${req.body.otherSpeciality}</p>
+    //   <p><strong>Insurance Cover:</strong> ${req.body.insuranceCover}</p>
+    //   <p><strong>References:</strong> ${JSON.stringify(req.body.references)}</p>
+    //   <p><strong>Total Premium:</strong> ${req.body.totalPremium}</p>
+    //   <p><strong>Tenure:</strong> ${req.body.tenure}</p>
+    //   <p><strong>Amount Paid:</strong> ${req.body.amountPaid}</p>
+    //   <p><strong>Payment Mode:</strong> ${req.body.paymentMode}</p>
+    //   <p><strong>Relationship Manager Name:</strong> ${req.body.relationshipManagerName}</p>
+    //   <p><strong>Relationship Manager Email:</strong> ${req.body.relationshipManagerEmail}</p>
+    //   <p><strong>Date and Time of Submission:</strong> ${req.body.dateTimeOfSubmission}</p>
+    //   <p><strong>Place of Submission:</strong> ${req.body.placeOfSubmission}</p>
